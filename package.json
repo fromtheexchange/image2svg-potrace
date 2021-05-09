@@ -39,7 +39,7 @@
     "aws-serverless-express": "^3.4.0",
     "create-vercel-http-server-handler": "^1.0.3",
     "heic-decode": "^1.1.2",
-    "helmet": "^4.4.1",
+    "helmet": "^4.5.0",
     "nearest-color": "^0.4.4",
     "potrace": "^2.1.8",
     "quantize": "^1.0.2",
